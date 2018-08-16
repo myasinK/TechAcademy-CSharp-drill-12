@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\bin\Debug\IntroClasses.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\bin\Debug\IntroClasses.exe
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\bin\Debug\IntroClasses.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\obj\Debug\IntroClasses.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\obj\Debug\IntroClasses.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\obj\Debug\IntroClasses.exe
+C:\Users\Yasin\TechAcademy\vs-tour\IntroClasses\IntroClasses\obj\Debug\IntroClasses.pdb
